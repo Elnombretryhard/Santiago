@@ -48,12 +48,12 @@ body {
     max-width: 1200px;
     max-height: 673px;
     margin: 0 auto;
-    background-image: url(1339211.png);
+    background-image: url(img/1339211.png);
     background-repeat: no-repeat; 
     background-position: center center; 
-     background-size: cover;
-    
+    background-size: cover;
 }
+
 
 p {
     font-size: xx-large;
